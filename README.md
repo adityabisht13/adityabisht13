@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Aditya Bisht</h1>
-<h3 align="center">Front End Developer | Data Analyst</h3>
+<h3 align="center"> Data Scientist | Data Analyst</h3>
 
 - 🌍 I'm based in Noida
 - 🌱 I’m currently learning Power Bi and Tabelau
